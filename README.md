@@ -1,5 +1,5 @@
 # MovieLens Recommender & Customer Segmentation System  
-**NYU Big Data Capstone | DSGA1004**
+**NYU Big Data Capstone | DS-GA 1004**
 
 ## Overview  
 This project involved designing and implementing a scalable movie recommendation and customer segmentation pipeline using the [MovieLens](https://grouplens.org/datasets/movielens/latest/) dataset (330K users, 86K movies). The solution leveraged distributed computing and collaborative filtering techniques to surface personalized recommendations and identify user similarity patterns at scale.
